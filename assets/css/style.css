@@ -376,7 +376,7 @@ body {
   font-family: var(--ff-chakra-petch);
   font-size: var(--fs-5);
   text-transform: uppercase;
-  color: var(--white);
+  color: var(--eerie-black);
   padding: 10px 20px;
   transition: var(--transition);
 }
